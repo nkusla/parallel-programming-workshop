@@ -1,1 +1,1 @@
-# parallel-programming-workshop
+# Parallel programming workshop (Petnica August 2022)
