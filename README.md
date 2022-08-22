@@ -1,6 +1,6 @@
 # Parallel programming workshop
 
-This workshop is a intro into parallel computing - more specifically computing on graphics processing unit.
+This workshop is an intro into parallel computing - more specifically computing on graphics processing units.
 
 Framework that is used in this workshop is [OpenCL](https://en.wikipedia.org/wiki/OpenCL) and runtime part (code that is run on host system)</br>is demonstrated in Python using [PyOpenCL](https://documen.tician.de/pyopencl/) library which is a wrapper around C++ runtime API. 
 
